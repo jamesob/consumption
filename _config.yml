@@ -16,8 +16,8 @@
 title: 
 email: 
 description: 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/consumption" # the subpath of your site, e.g. /blog
+url: "http://jameso.be" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jamesob
 github_username: jamesob
 
