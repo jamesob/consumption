@@ -4,10 +4,10 @@ title: "Hidden Forces: Episode 9 - The Fed and Greenspan"
 tags: [podcasts, politics]
 ---
 
-![Sebastian Mallaby](http://img.jameso.be/2020-09-seb-mallaby.jpg)
+![Sebastian Mallaby](http://img.jameso.be/archive/2020-09-seb-mallaby.jpg)
 
 [Archived
-here](http://img.jameso.be/2020-09-hiddenforces-Ep._9_Sebastian_Mallaby_05072017.mp3)
+here](http://img.jameso.be/archive/2020-09-hiddenforces-Ep._9_Sebastian_Mallaby_05072017.mp3)
 
 Hidden Forces has probably been my favorite podcast for the last year. Dimitri Kofinas
 may be the best, most thorough interviewer working today.
